@@ -1,0 +1,3 @@
+# Lesson code uses the Python standard library.
+# Support for running notebooks in VS Code:
+ipykernel
